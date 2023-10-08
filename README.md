@@ -10,9 +10,9 @@
   - Fetch API
 - Workshop
 
-## Requiremements
+## Installation Documentation
 
--
+- [Frontend Installation](https://docs.google.com/document/d/1xnpPheY2EiOAyYGUxCcb5gg8R0DrwTysWFWi7AXCmrQ/edit?usp=sharing)
 
 ## Workshop Demo
 
@@ -22,4 +22,4 @@
 
 ## Related Links
 
--
+-  Slide: [https://docs.google.com/presentation/d/1nyp9TyJYAsmcqrd-WnjGZSZHUl4tgyn8Y9ALwJngGNY/edit?usp=sharing](https://docs.google.com/presentation/d/1nyp9TyJYAsmcqrd-WnjGZSZHUl4tgyn8Y9ALwJngGNY/edit?usp=sharing)
