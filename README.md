@@ -16,10 +16,10 @@
 
 ## Workshop Demo
 
-- HTML
-- CSS
-- JavaScript
+- [HTML](https://thinc-org.github.io/first-act-frontend-2023/src/mini-reg/html/)
+- [CSS](https://thinc-org.github.io/first-act-frontend-2023/src/mini-reg/css/)
+- [JavaScript](https://thinc-org.github.io/first-act-frontend-2023/src/mini-reg/js/)
 
 ## Related Links
 
--  Slide: [https://docs.google.com/presentation/d/1nyp9TyJYAsmcqrd-WnjGZSZHUl4tgyn8Y9ALwJngGNY/edit?usp=sharing](https://docs.google.com/presentation/d/1nyp9TyJYAsmcqrd-WnjGZSZHUl4tgyn8Y9ALwJngGNY/edit?usp=sharing)
+- Slide: [https://docs.google.com/presentation/d/1nyp9TyJYAsmcqrd-WnjGZSZHUl4tgyn8Y9ALwJngGNY/edit?usp=sharing](https://docs.google.com/presentation/d/1nyp9TyJYAsmcqrd-WnjGZSZHUl4tgyn8Y9ALwJngGNY/edit?usp=sharing)
